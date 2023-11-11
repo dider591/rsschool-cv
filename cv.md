@@ -19,4 +19,5 @@ But I didn't have enough motivation to continue studying and not quit at the beg
 
 ### Skills and Proficiency:
 
-- unity, C#
+- unity
+- C#
