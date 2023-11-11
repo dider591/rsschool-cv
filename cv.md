@@ -1,13 +1,11 @@
 # Valiev Ildar Shavkaevich
----
 
+---
 ### Contact information:
 
 **E-mail:** vaxitildar776@gmail.com<br>
 **Phone:** +79173876746<br>
-
 ---
-
 ### Briefly About Myself:
 
 I've always dreamed of becoming a programmer. 
